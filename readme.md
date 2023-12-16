@@ -34,10 +34,10 @@ The Seasonal Analysis App is an interactive tool designed to provide valuable in
 
 ## Creator and Contact Information
 
-- **Creator:** [Kampamba Shula]
+- **Creator:** Kampamba Shula
 - **Email:** kampambashula@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kampamba-shula-03946633/)
-- **GitHub:** [Your GitHub Profile](https://github.com/kshula)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kampamba-shula-03946633/)
+- **GitHub:** [GitHub Profile](https://github.com/kshula)
 
 ## Getting Started
 
